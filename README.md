@@ -3,7 +3,7 @@
 >  In me the tiger sniffs the rose. 
 
 ## Description
-This is my personal technology blog, which is mainly used to sum up what I've learned and will occasionally be used as a photos displaying platform.
+This is my personal technology blog, which is mainly used to sum up what I've learned and will occasionally displays my own photos.
 
 ## Author
 **yun_yang**
