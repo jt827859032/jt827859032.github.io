@@ -5,6 +5,9 @@
 ## Description
 This is my personal technology blog, which is mainly used to sum up what I've learned and will occasionally displays my own photos.
 
+## Projects
+Pytorch DRRN : [[project]](https://github.com/jt827859032/DRRN-pytorch)  [[paper]](http://cvlab.cse.msu.edu/pdfs/Tai_Yang_Liu_CVPR2017.pdf)
+
 ## Author
 **yun_yang**
 Profile: I am a graduated students working in Shaanxi Normal University, majoring in *Software Engineering*. 
