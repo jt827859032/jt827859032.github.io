@@ -9,6 +9,8 @@ This is my personal technology blog, which is mainly used to sum up what I've le
 **yun_yang**
 Profile: I am a graduated students working in Shaanxi Normal University, majoring in *Software Engineering*. 
 
+gmail: [fengqingyunyang@gmail.com](fengqingyunyang@gmail.com)
+
 github: [yun_yang](https://github.com/jt827859032)
 
 twitter: [@Yun Yang](https://twitter.com/jt827859032)
