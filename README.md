@@ -1,35 +1,19 @@
-# NexT
+# Blog | yun_yang
 
-> 精于心，简于形
+>  In me the tiger sniffs the rose. 
 
-NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。<!--commit: f951075d9b739d26b42472431995fa68d08796aa-->
+## Description
+This is my personal technology blog, which is mainly used to sum up what I've learned and will occasionally be used as a photos displaying platform.
 
-<a href="http://simpleyyt.github.io/jekyll-theme-next/" target="_blank">在线预览 Preview</a> | <a href="http://simpleyyt.com" target="_blank">Yitao's Blog</a> | <a href="http://theme-next.simpleyyt.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
+## Author
+**yun_yang**
+Profile: I am a graduated students working in Shaanxi Normal University, majoring in *Software Engineering*. 
 
-[![Join the chat at https://gitter.im/simpleyyt/jekyll-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jekyll-theme-next/lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+github: [yun_yang](https://github.com/jt827859032)
 
-![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
+twitter: [@Yun Yang](https://twitter.com/jt827859032)
 
+zhihu: [Jiang Tao](https://www.zhihu.com/people/jiang-tao-85-46/activities)
 
-## 浏览器支持 Browser support
-
-![Browser support](http://iissnan.com/nexus/next/browser-support.png)
-
-
-## 贡献 Contributing
-
-欢迎提交问题与需求，修复代码。
-
-
-## 开发 Development
-
-NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
-
-NexT is built for easily use with elegant appearance. First things first, always keep things simple.
-
-
-## 捐赠
-
-支付宝捐赠链接还是要有的，万一真的有人捐呢。
-
-![支付宝扫码捐赠](http://p1.bpimg.com/567571/9a4a158daee8aa69.png)
+## Blog Theme
+[Hexo NexT](https://github.com/iissnan/hexo-theme-next) 
