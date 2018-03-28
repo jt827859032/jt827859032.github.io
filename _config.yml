@@ -365,8 +365,8 @@ highlight_theme: normal
 # MathJax Support
 mathjax:
   enable: true
-  per_page: true
-  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
+  per_page: false
+  cdn: https://cdn.bootcss.com/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
 han: true
