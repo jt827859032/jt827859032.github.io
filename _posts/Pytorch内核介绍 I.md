@@ -1,6 +1,6 @@
 ---
 title: Pytorch内核介绍 I
-date: 2018-04-12 19:55:23
+date: 2018-04-11 19:55:23
 categories:
 - Pytorch
 tags:
