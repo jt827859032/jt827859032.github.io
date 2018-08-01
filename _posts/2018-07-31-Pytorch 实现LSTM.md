@@ -12,6 +12,8 @@ Reference: [Andre Holzner](https://medium.com/@andre.holzner/lstm-cells-in-pytor
 
 ![LSTM](http://p6a2eqn18.bkt.clouddn.com/8.png)
 
+<!-- more -->
+
 The yellow boxes correspond to matrix multiplication followed by non-linearities. W represent the weight matrices, the bias terms b have been omitted for simplicity. The mathematical symbols used in this diagram correspond to those used in PyTorch’s documentation of [torch.nn.LSTM](http://pytorch.org/docs/master/nn.html#torch.nn.LSTM):
 
 -  **external input** (e.g. from training data) at time t
